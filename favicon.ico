@@ -1,0 +1,8 @@
+// favicon.ico
+
+[Icon]
+Label = Nikola Tesla
+Title = Nikola Tesla Website
+Description = A website about the life and achievements of Nikola Tesla
+Background = #007bff
+Foreground = #ffffff

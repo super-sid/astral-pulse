@@ -1,0 +1,12 @@
+Sure! Here is the list of essential files for a VueJs website about Nikola Tesla in a Git repository:
+- src/index.html
+- src/styles.css
+- src/js/app.js
+- src/js/components/TeslaProfile.vue
+- src/js/components/TeslaTimeline.vue
+- src/js/main.js
+- images/nikola-tesla.jpg
+- favicon.ico
+- public/index.html
+- public/404.html
+- public/robots.txt
